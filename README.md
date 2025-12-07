@@ -47,7 +47,7 @@ uv --version
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/AN1N8/GameVerse.git
+git clone https://github.com/AM1N8/GameVerse.git
 cd GameVerse
 ```
 
@@ -276,3 +276,22 @@ For issues and questions:
 - AI powered by Botpress
 - UI design inspired by modern game store platforms
 
+## Screenshots
+
+### Home Page
+![image1](demo/Screenshot%202025-12-07%20171200.png)
+
+### Browse Games
+![image](demo/Screenshot%202025-12-06%20001125.png)
+
+### Game Details
+![image](demo/Screenshot%202025-12-07%20171233.png)
+
+### Shopping Cart
+![image](demo/Screenshot%202025-12-07%20171252.png)
+
+### AI Assistant
+![image](demo/Screenshot%202025-12-07%20171321.png)
+
+### Analytics Dashboard
+![Analytics Dashboard](demo/Screenshot%202025-12-07%20171347.png)
