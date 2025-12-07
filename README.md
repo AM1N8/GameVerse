@@ -278,20 +278,16 @@ For issues and questions:
 
 ## Screenshots
 
-### Home Page
+
 ![image1](demo/Screenshot%202025-12-07%20171200.png)
 
-### Browse Games
 ![image](demo/Screenshot%202025-12-06%20001125.png)
 
-### Game Details
 ![image](demo/Screenshot%202025-12-07%20171233.png)
 
-### Shopping Cart
 ![image](demo/Screenshot%202025-12-07%20171252.png)
 
-### AI Assistant
 ![image](demo/Screenshot%202025-12-07%20171321.png)
 
-### Analytics Dashboard
 ![Analytics Dashboard](demo/Screenshot%202025-12-07%20171347.png)
+
