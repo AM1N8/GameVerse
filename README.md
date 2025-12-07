@@ -47,8 +47,8 @@ uv --version
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/gameverse.git
-cd gameverse
+git clone https://github.com/AN1N8/GameVerse.git
+cd GameVerse
 ```
 
 2. Create a virtual environment and install dependencies:
@@ -275,3 +275,4 @@ For issues and questions:
 - Built with Streamlit
 - AI powered by Botpress
 - UI design inspired by modern game store platforms
+
